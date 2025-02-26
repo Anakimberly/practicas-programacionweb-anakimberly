@@ -1,0 +1,11 @@
+input, select,button{
+    padding: 15px;
+    margin: 10;
+    background-color: rgb(164, 164, 225);
+    color:black;
+}
+h1{
+    background-color: rgb(176, 169, 183);
+    text-align: center;
+    
+}
